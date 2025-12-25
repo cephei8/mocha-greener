@@ -15,7 +15,7 @@
         "greener-reporter": "0.14.0"
     },
     "devDependencies": {
-        "mocha": "^10.7.3"
+        "mocha": "^11.7.5"
     },
     "scripts": {
         "test": "mocha --reporter index.js"
